@@ -1,6 +1,6 @@
 ### Hi there, welcome to my temple 👋
 
-![My statistics: ](https://github-readme-stats.vercel.app/api?username=reconike&show_icons=true&theme=radical)
+![My statistics: ](https://github-readme-stats.vercel.app/api?username=reconike&show_icons=true&theme=radical&hide=stars,prs,contribs)
 
 <!--
 **RecoNike/RecoNike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
