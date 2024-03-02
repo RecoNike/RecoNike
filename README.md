@@ -1,6 +1,9 @@
+
+<div align = "center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
 <h3 align="center">👾 Young AndroidDev from Ukraine </br> Currently located in Norway 👾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reconike&label=Profile%20views&color=0e75b6&style=flat" alt="reconike" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
