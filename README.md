@@ -40,6 +40,8 @@
     </td>
   </tr>
 </table>
+</br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018dfa19-f516-4b13-81c7-3432effdf503/a4aad7f5-85c9-428e-97b6-a13ee8e7c443.png" /></a>
 
 
 
