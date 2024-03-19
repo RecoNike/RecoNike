@@ -27,20 +27,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 </td>
-    <td>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reconike&show_icons=true&locale=en&layout=compact" alt="reconike" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=reconike&show_icons=true&locale=en" alt="reconike" /></p>
-    </td>
-    <td>
       <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reconike&" alt="reconike" /></p>
-    </td>
-  </tr>
 </table>
-</br>
+<br/><br/><br/>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018dfa19-f516-4b13-81c7-3432effdf503/a4aad7f5-85c9-428e-97b6-a13ee8e7c443.png" /></a>
 
 
