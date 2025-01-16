@@ -21,7 +21,6 @@ My name is Oleksandr Nimliienko, and I am:
 
 ## 🚀 What I am working on right now:
 - Deepening my Python knowledge and learning Django.
-- Practicing app development with Flet.
 - Working on projects that combine theory and practice.
 - Preparing for work in an international development team.
 
