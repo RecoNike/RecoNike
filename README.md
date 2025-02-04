@@ -29,4 +29,4 @@ My name is Oleksandr Nimliienko, and I am:
 - 💼 **LinkedIn**: [My page](https://www.linkedin.com/in/%E2%9A%A1olexandr-nimliienko%E2%9A%A1-bb1b88257/)
 - 🌟 **GitHub**: [My repositories](https://github.com/RecoNike?tab=repositories)
 
-Thank you for visiting! I hope you enjoy my projects! 😊
+Thank you for visiting! I hope you enjoy my projects!😊
