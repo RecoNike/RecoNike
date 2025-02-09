@@ -8,6 +8,7 @@ My name is Oleksandr Nimliienko, and I am:
 - 🌍 Living and growing in Norway, dreaming of contributing to the IT industry in this country.
 - 🎸 In my free time, I play the guitar and experiment with Arduino.
 
+
 ## 🔧 My skills:
 - **Programming languages**: Python 🐍, Kotlin, HTML, CSS, JavaScript.
 - **Frameworks and libraries**: Django, Flet, Pandas, NumPy.
